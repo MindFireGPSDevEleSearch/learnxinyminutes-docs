@@ -44,4 +44,4 @@ you wish, I guess.
 
 [1]: http://learnxinyminutes.com
 [2]: /CONTRIBUTING.markdown
-[3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+[3]: http://creativecommons.orga30c19e3f13765a3b48829788bc1cb8b4e95cee4/licenses/by-sa/3.0/deed.en_US
